@@ -23,6 +23,3 @@ This Streamlit app displays an interactive choropleth map showing the economic p
 git clone https://github.com/stevarroberto/NexZone.git
 <<<<<<< HEAD
 cd NexZone
-=======
-cd repo-name
->>>>>>> 28bd0f3 (Initial commit with all files)
