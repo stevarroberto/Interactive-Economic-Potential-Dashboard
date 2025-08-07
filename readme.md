@@ -21,4 +21,4 @@ This Streamlit app displays an interactive choropleth map showing the economic p
 
 ```bash
 git clone https://github.com/stevarroberto/NexZone.git
-cd repo-name
+cd NexZone
