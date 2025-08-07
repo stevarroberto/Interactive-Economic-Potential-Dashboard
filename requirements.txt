@@ -9,3 +9,4 @@ ipython
 ipykernel
 pypi-json
 streamlit-plotly-events
+xlsxwriter
