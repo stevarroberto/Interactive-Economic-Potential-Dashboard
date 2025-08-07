@@ -77,7 +77,7 @@ st.sidebar.markdown("""
 @st.cache_data
 def load_geojson():
     try:
-        with open("../baze/ro.json", "r", encoding="utf-8") as f:
+        with open("/baze/ro.json", "r", encoding="utf-8") as f:
             return json.load(f)
     except FileNotFoundError:
         st.error("Fișierul ro.json nu a fost găsit. Verifică calea către fișier.")
@@ -103,12 +103,12 @@ def load_tooltip_data():
 def load_all_datasets():
     datasets = {}
     files = {
-        'populatie': "../baze/populatie_2024.csv",
-        'pop_activa': "../baze/populatia_activa_2023.csv",
-        'firme': "../baze/numar_firme2023.csv",
-        'firme_1000': "../baze/trenduri.csv",
-        'somaj': "../baze/rata_somaj_2023.csv",
-        'salarii': "../baze/salariul_mediu2023.csv"
+        'populatie': "/baze/populatie_2024.csv",
+        'pop_activa': "/baze/populatia_activa_2023.csv",
+        'firme': "/baze/numar_firme2023.csv",
+        'firme_1000': "/baze/trenduri.csv",
+        'somaj': "/baze/rata_somaj_2023.csv",
+        'salarii': "/baze/salariul_mediu2023.csv"
     }
     
     for key, file_path in files.items():
