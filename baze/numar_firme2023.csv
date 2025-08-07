@@ -1,0 +1,211 @@
+Judet,Clasa Firma,Numar Firme
+ Bihor, Total,23889
+ Bistrita-Nasaud, Total,9659
+ Cluj, Total,42435
+ Maramures, Total,14398
+ Satu Mare, Total,9604
+ Salaj, Total,6460
+ Alba, Total,10996
+ Brasov, Total,26260
+ Covasna, Total,4900
+ Harghita, Total,8735
+ Mures, Total,17284
+ Sibiu, Total,15930
+ Bacau, Total,14759
+ Botosani, Total,5808
+ Iasi, Total,25033
+ Neamt, Total,10894
+ Suceava, Total,16663
+ Vaslui, Total,6987
+ Braila, Total,7277
+ Buzau, Total,11297
+ Constanta, Total,27376
+ Galati, Total,14248
+ Tulcea, Total,5765
+ Vrancea, Total,8396
+ Arges, Total,20753
+ Calarasi, Total,5941
+ Dambovita, Total,11089
+ Giurgiu, Total,6766
+ Ialomita, Total,5386
+ Prahova, Total,22425
+ Teleorman, Total,6567
+ Ilfov, Total,37399
+ Municipiul Bucuresti, Total,134356
+ Dolj, Total,19145
+ Gorj, Total,8678
+ Mehedinti, Total,4351
+ Olt, Total,8650
+ Valcea, Total,9814
+ Arad, Total,15117
+ Caras-Severin, Total,5492
+ Hunedoara, Total,11011
+ Timis, Total,32082
+ Bihor, 0-9 persoane,21816
+ Bistrita-Nasaud, 0-9 persoane,8904
+ Cluj, 0-9 persoane,39559
+ Maramures, 0-9 persoane,13146
+ Satu Mare, 0-9 persoane,8649
+ Salaj, 0-9 persoane,5922
+ Alba, 0-9 persoane,10015
+ Brasov, 0-9 persoane,24240
+ Covasna, 0-9 persoane,4413
+ Harghita, 0-9 persoane,7718
+ Mures, 0-9 persoane,15722
+ Sibiu, 0-9 persoane,14521
+ Bacau, 0-9 persoane,13557
+ Botosani, 0-9 persoane,5257
+ Iasi, 0-9 persoane,22915
+ Neamt, 0-9 persoane,9913
+ Suceava, 0-9 persoane,15209
+ Vaslui, 0-9 persoane,6441
+ Braila, 0-9 persoane,6653
+ Buzau, 0-9 persoane,10293
+ Constanta, 0-9 persoane,25019
+ Galati, 0-9 persoane,13136
+ Tulcea, 0-9 persoane,5270
+ Vrancea, 0-9 persoane,7779
+ Arges, 0-9 persoane,18805
+ Calarasi, 0-9 persoane,5475
+ Dambovita, 0-9 persoane,10243
+ Giurgiu, 0-9 persoane,6289
+ Ialomita, 0-9 persoane,4877
+ Prahova, 0-9 persoane,20356
+ Teleorman, 0-9 persoane,6050
+ Ilfov, 0-9 persoane,34596
+ Municipiul Bucuresti, 0-9 persoane,122969
+ Dolj, 0-9 persoane,17616
+ Gorj, 0-9 persoane,8050
+ Mehedinti, 0-9 persoane,4019
+ Olt, 0-9 persoane,7959
+ Valcea, 0-9 persoane,8991
+ Arad, 0-9 persoane,13808
+ Caras-Severin, 0-9 persoane,5054
+ Hunedoara, 0-9 persoane,10054
+ Timis, 0-9 persoane,29700
+ Bihor, 10-49 persoane,1769
+ Bistrita-Nasaud, 10-49 persoane,642
+ Cluj, 10-49 persoane,2359
+ Maramures, 10-49 persoane,1085
+ Satu Mare, 10-49 persoane,816
+ Salaj, 10-49 persoane,463
+ Alba, 10-49 persoane,834
+ Brasov, 10-49 persoane,1665
+ Covasna, 10-49 persoane,414
+ Harghita, 10-49 persoane,902
+ Mures, 10-49 persoane,1312
+ Sibiu, 10-49 persoane,1136
+ Bacau, 10-49 persoane,1025
+ Botosani, 10-49 persoane,461
+ Iasi, 10-49 persoane,1814
+ Neamt, 10-49 persoane,844
+ Suceava, 10-49 persoane,1269
+ Vaslui, 10-49 persoane,484
+ Braila, 10-49 persoane,542
+ Buzau, 10-49 persoane,866
+ Constanta, 10-49 persoane,2031
+ Galati, 10-49 persoane,937
+ Tulcea, 10-49 persoane,425
+ Vrancea, 10-49 persoane,530
+ Arges, 10-49 persoane,1634
+ Calarasi, 10-49 persoane,401
+ Dambovita, 10-49 persoane,720
+ Giurgiu, 10-49 persoane,408
+ Ialomita, 10-49 persoane,446
+ Prahova, 10-49 persoane,1725
+ Teleorman, 10-49 persoane,449
+ Ilfov, 10-49 persoane,2287
+ Municipiul Bucuresti, 10-49 persoane,8936
+ Dolj, 10-49 persoane,1330
+ Gorj, 10-49 persoane,553
+ Mehedinti, 10-49 persoane,287
+ Olt, 10-49 persoane,592
+ Valcea, 10-49 persoane,707
+ Arad, 10-49 persoane,1086
+ Caras-Severin, 10-49 persoane,378
+ Hunedoara, 10-49 persoane,817
+ Timis, 10-49 persoane,1973
+ Bihor, 50-249 persoane,259
+ Bistrita-Nasaud, 50-249 persoane,104
+ Cluj, 50-249 persoane,421
+ Maramures, 50-249 persoane,144
+ Satu Mare, 50-249 persoane,117
+ Salaj, 50-249 persoane,68
+ Alba, 50-249 persoane,115
+ Brasov, 50-249 persoane,295
+ Covasna, 50-249 persoane,63
+ Harghita, 50-249 persoane,99
+ Mures, 50-249 persoane,215
+ Sibiu, 50-249 persoane,217
+ Bacau, 50-249 persoane,148
+ Botosani, 50-249 persoane,76
+ Iasi, 50-249 persoane,257
+ Neamt, 50-249 persoane,122
+ Suceava, 50-249 persoane,167
+ Vaslui, 50-249 persoane,53
+ Braila, 50-249 persoane,72
+ Buzau, 50-249 persoane,118
+ Constanta, 50-249 persoane,289
+ Galati, 50-249 persoane,144
+ Tulcea, 50-249 persoane,60
+ Vrancea, 50-249 persoane,72
+ Arges, 50-249 persoane,263
+ Calarasi, 50-249 persoane,57
+ Dambovita, 50-249 persoane,111
+ Giurgiu, 50-249 persoane,62
+ Ialomita, 50-249 persoane,59
+ Prahova, 50-249 persoane,276
+ Teleorman, 50-249 persoane,60
+ Ilfov, 50-249 persoane,418
+ Municipiul Bucuresti, 50-249 persoane,1888
+ Dolj, 50-249 persoane,166
+ Gorj, 50-249 persoane,64
+ Mehedinti, 50-249 persoane,39
+ Olt, 50-249 persoane,84
+ Valcea, 50-249 persoane,99
+ Arad, 50-249 persoane,178
+ Caras-Severin, 50-249 persoane,56
+ Hunedoara, 50-249 persoane,126
+ Timis, 50-249 persoane,327
+ Bihor, 250 persoane si peste,45
+ Bistrita-Nasaud, 250 persoane si peste,9
+ Cluj, 250 persoane si peste,96
+ Maramures, 250 persoane si peste,23
+ Satu Mare, 250 persoane si peste,22
+ Salaj, 250 persoane si peste,7
+ Alba, 250 persoane si peste,32
+ Brasov, 250 persoane si peste,60
+ Covasna, 250 persoane si peste,10
+ Harghita, 250 persoane si peste,16
+ Mures, 250 persoane si peste,35
+ Sibiu, 250 persoane si peste,56
+ Bacau, 250 persoane si peste,29
+ Botosani, 250 persoane si peste,14
+ Iasi, 250 persoane si peste,47
+ Neamt, 250 persoane si peste,15
+ Suceava, 250 persoane si peste,18
+ Vaslui, 250 persoane si peste,9
+ Braila, 250 persoane si peste,10
+ Buzau, 250 persoane si peste,20
+ Constanta, 250 persoane si peste,37
+ Galati, 250 persoane si peste,31
+ Tulcea, 250 persoane si peste,10
+ Vrancea, 250 persoane si peste,15
+ Arges, 250 persoane si peste,51
+ Calarasi, 250 persoane si peste,8
+ Dambovita, 250 persoane si peste,15
+ Giurgiu, 250 persoane si peste,7
+ Ialomita, 250 persoane si peste,4
+ Prahova, 250 persoane si peste,68
+ Teleorman, 250 persoane si peste,8
+ Ilfov, 250 persoane si peste,98
+ Municipiul Bucuresti, 250 persoane si peste,563
+ Dolj, 250 persoane si peste,33
+ Gorj, 250 persoane si peste,11
+ Mehedinti, 250 persoane si peste,6
+ Olt, 250 persoane si peste,15
+ Valcea, 250 persoane si peste,17
+ Arad, 250 persoane si peste,45
+ Caras-Severin, 250 persoane si peste,4
+ Hunedoara, 250 persoane si peste,14
+ Timis, 250 persoane si peste,82
