@@ -3,6 +3,10 @@ import plotly.express as px
 import streamlit as st
 from streamlit_plotly_events import plotly_events
 import json
+import os
+import streamlit as st
+
+st.write("Current working directory:", os.getcwd())
 
 # Configurare pagină
 st.set_page_config(
