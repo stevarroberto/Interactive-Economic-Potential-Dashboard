@@ -3,16 +3,7 @@ import plotly.express as px
 import streamlit as st
 from streamlit_plotly_events import plotly_events
 import json
-import os
 import streamlit as st
-
-st.write("Current working directory:", os.getcwd())
-
-# List all files and folders in the current directory
-files_and_folders = os.listdir(os.getcwd())
-
-st.write("Contents of current working directory:")
-st.write(files_and_folders)
 
 # Configurare pagină
 st.set_page_config(
