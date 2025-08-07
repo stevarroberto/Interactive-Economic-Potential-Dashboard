@@ -8,6 +8,12 @@ import streamlit as st
 
 st.write("Current working directory:", os.getcwd())
 
+# List all files and folders in the current directory
+files_and_folders = os.listdir(os.getcwd())
+
+st.write("Contents of current working directory:")
+st.write(files_and_folders)
+
 # Configurare pagină
 st.set_page_config(
     page_title="Analiza Economică - Județele României",
